@@ -1,0 +1,15 @@
+{
+  "name": "@Cordovas-cmd/github-pkg-demo",
+  "repository": {
+    "url": "git://github.com/Cordovas-cmd/GITHUB-PKG-DEMO.git"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
